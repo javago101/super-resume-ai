@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "name": "Guoqing Wang",
+    "intro": "A passionate computer science student with strong interests in AI, full-stack development, and system design.",
+    "goal": "Seeking internship opportunities to apply my skills in real-world projects and grow as a software engineer."
+  },
+  "skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "TypeScript",
+    "Docker",
+    "Git",
+    "HTML/CSS",
+    "Vite",
+    "pnpm",
+    "Tailwind CSS"
+  ],
+  "projects": [
+    {
+      "title": "Super Resume AI Website",
+      "description": "A multi-frontend AI resume editor platform that supports React, Vue, and Next.js, integrating OpenAI API and Express backend.",
+      "techStack": "React, Express, OpenAI API, shadcn/ui, Zustand"
+    },
+    {
+      "title": "Job Market Platform",
+      "description": "An intelligent job board with resume-matching features and mock server support for frontend testing.",
+      "techStack": "React, Express, Docker, Faker.js, RESTful API"
+    }
+  ],
+  "education": {
+    "school": "Mt. San Antonio College",
+    "degree": "Associate Degree in Computer Science",
+    "graduation": "Expected 2025"
+  },
+  "contact": {
+    "email": "gwang66@student.mtsac.edu",
+    "github": "https://github.com/javago101",
+    "linkedin": "https://www.linkedin.com/in/guoqing-wang",
+    "phone": "6263991099"
+  }
+}
